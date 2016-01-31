@@ -1,4 +1,4 @@
-# hello-world
+# HelloWorld
 Getting acquainted with Github.
 Hello Github community!
 This is my first attempt and effort in learn data science.
